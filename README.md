@@ -27,9 +27,22 @@ The analysis of the election shows that
 - The winner of the election was
   - Diana DeGette who received 272,892 votes, 73.8% of the total election votes.
 
-## Challenge summary
+## County audit
  The election commission has requested some additional data to complete the audit:
 * The voter turnout for each county
 * The percentage of votes from each county out of the total count
 * The county with the highest turnout
 
+A total of 369,711 votes were cast in this congressional election.
+Breakdown of the number of votes and the percentage of total votes for each county in the precinct:
+* Jefferson: 10.5% (38,855)
+* Denver: 82.8% (306,055)
+* Arapahoe: 6.7% (24,801)
+
+Denver county had the largest number of votes.
+
+## Election Audit Summary
+
+The recommendation we can conclude from this analysis is that the election commission might explore how this script can be used for any election including but not limited to:
+1. larger or smaller elections, like state or city elections - this will require new source data with the same fields
+1. additional details added to the final summary reports about the candidates, the financial components that are required to be disclosed by campaigns, or social media data - these would also require new source data, but with additional fields.
